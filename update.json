@@ -1,12 +1,11 @@
 {
-  "app_name": "My Android App",
-  "package_name": "com.example.myapp",
-  "version_name": "1.2.0",
-  "version_code": 12,
+  "app_name": "MicroG Services",
+  "package_name": "app.revanced.android.gms",
+  "version": "7.3.2-dev.1",
+  "version_code": 255070314,
   "apk_url": "https://github.com/USERNAME/REPO/releases/download/v1.2.0/app-release.apk",
-  "sha256": "REPLACE_WITH_64_CHARACTER_SHA256_HEX",
+ "sha256": "1da5e08fffa51acf0ae1cab33b0878b3a386557a2de4d698cb65d9c722ea6d55",
+  "release_note": "Cập nhật tính năng mới, sửa lỗi và cải thiện hiệu suất.",
   "file_size_bytes": 0,
-  "min_sdk": 23,
   "force_update": false,
-  "release_notes": "Sửa lỗi và cải thiện hiệu năng."
 }
